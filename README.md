@@ -7,6 +7,8 @@ for the multiples of five output “Buzz”. For numbers which are multiples of 
 
 <2>
 Reading a txt file and count how many times a word that appeared.
+
+
 <3>
  * Given an array of integers and an integer k, Here a k-diff pair is defined as
  * an integer pair (i, j), where i and j are both numbers in the array and their
