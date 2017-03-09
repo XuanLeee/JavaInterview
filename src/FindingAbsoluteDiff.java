@@ -1,11 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Given an array of integers and an integer k, Here a k-diff pair is defined as
- * an integer pair (i, j), where i and j are both numbers in the array and their
- * absolute difference is k.
- **/
 
 public class FindingAbsoluteDiff {
 	public int findAD(int[] nums, int k) {
@@ -36,3 +31,4 @@ public class FindingAbsoluteDiff {
 		}
 	}
 }
+
