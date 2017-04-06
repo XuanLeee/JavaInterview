@@ -14,8 +14,9 @@ Reading a txt file and count how many times a word that appeared.
 <4> 
   Given a text file and read by bash. file only contain lowercase word and space between them
   
-  <5>
-  <6>
-  <7>find the longest uncommon subsequence in two array.
-  
+<5>
+find the longest uncommon subsequence in two array.
+
+<6> Java Dump and how to use it in two different ways.
+
 
