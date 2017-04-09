@@ -1,4 +1,4 @@
-# JavaInterview Some interview questions
+# Java Interview Datastructure Practice
 
 <1>
 Write a program that outputs the string representation of numbers from 1 to n.
