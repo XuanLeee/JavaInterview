@@ -1,4 +1,5 @@
-## find number that not in pair in an array
+## find number that in a sorted array consisting of only integers where every element appears twice except for one element which appears once.Using Binary Search
+
 
 public class Solution {
     public int singleNonDuplicate(int[] nums) {
